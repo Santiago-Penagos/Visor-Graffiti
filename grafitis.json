@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mural del hombre de camisa de rayas",
+    "artista": "Desconocido",
+    "latitud": 4.6260387,
+    "longitud": -74.1118146,
+    "descripcion": "Retrato en escala de grises de un hombre sonriente con camisa de rayas. Coordenadas aproximadas."
+  },
+  {
+    "id": 2,
+    "nombre": "Mural 2",
+    "artista": "Desconocido",
+    "latitud": 4.6258701,
+    "longitud": -74.1120538,
+    "descripcion": "Mural en Distrito Grafiti. Coordenadas aproximadas."
+  },
+  {
+    "id": 3,
+    "nombre": "Mural 3",
+    "artista": "Desconocido",
+    "latitud": 4.6261331,
+    "longitud": -74.111797,
+    "descripcion": "Mural en Distrito Grafiti. Coordenadas aproximadas."
+  },
+  {
+    "id": 4,
+    "nombre": "Mural 4",
+    "artista": "Desconocido",
+    "latitud": 4.6262707,
+    "longitud": -74.1116763,
+    "descripcion": "Mural en Distrito Grafiti. Coordenadas aproximadas."
+  },
+  {
+    "id": 5,
+    "nombre": "Mural 5",
+    "artista": "Desconocido",
+    "latitud": 4.6263432,
+    "longitud": -74.1116202,
+    "descripcion": "Mural en Distrito Grafiti. Coordenadas aproximadas."
+  }
+]
